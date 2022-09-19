@@ -27,7 +27,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright 2022 emir_codes
+          Copyright 2022 Emirhan Durmuş
         </Typography>
       </Box>
       <Box p={2} sx={{
