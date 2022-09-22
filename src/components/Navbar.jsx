@@ -9,6 +9,7 @@ const Navbar = () => (
     direction="row"
     alignItems="center"
     p={2}
+    mb={1}
     sx={{
       position: "sticky",
       background: "#0000",
